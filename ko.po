@@ -23,8 +23,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#: pkg/metrics/metrics.jsx:380 pkg/metrics/metrics.jsx:15
+#: pkg/metrics/metrics.jsx:1000 pkg/metrics/metrics.jsx:15
 msgid "new message"
+msgstr ""
+
+#: pkg/metrics/metrics.jsx:1111 pkg/metrics/metrics.jsx:16
+msgid "new message 2"
 msgstr ""
 
 #: pkg/metrics/metrics.jsx:365
