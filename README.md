@@ -14,3 +14,5 @@ Weblate introduced a "push" workflow - meaning that the project repository keeps
 The Cockpit team does not want to keep the `.pot` file upstream, also we don't want to get loads of commits and pull requests from Weblate. We prefer "pull" workflow - meaning that we regularly update `.pot` file and also download current translated strings, and gate their landing through our tests.
 
 This repository acts as a buffer between the two - here we update the `.pot` file and Weblate directly pushes translations. We then take translation files from this repository, test them and land into the project itself.  All is done by our and Weblate bots, so there should be no manual interaction.
+
+
