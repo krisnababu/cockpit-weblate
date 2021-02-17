@@ -1,4 +1,5 @@
 # Weblate helper repository for Cockpit
+#Adding test line
 
 Repository for syncing Weblate translations. If you are not a bot, please ignore this repository.
 
