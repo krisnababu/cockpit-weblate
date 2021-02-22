@@ -29,10 +29,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.4.2\n"
 
-#: pkg/machines/components/vm/overview/cpuTypeModal.jsx:23257
-msgid "Adding new test string"
-msgstr "Hinzufügen einer neuen Testzeichenfolge"
-
 #: pkg/docker/storage.jsx:261
 msgid " (shared with the OS)"
 msgstr " (gemeinsam mit dem Betriebssystem freigegeben)"
