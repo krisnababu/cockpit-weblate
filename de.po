@@ -34,10 +34,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.4.1\n"
 
-#: pkg/machines/components/vm/overview/cpuTypeModal.jsx:23257
-msgid "Adding new test string"
-msgstr ""
-
 #: pkg/metrics/metrics.jsx:365
 msgid "$0 CPU"
 msgid_plural "$0 CPUs"
